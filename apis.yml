@@ -1,7 +1,11 @@
 aid: mrc-global
-url: https://raw.githubusercontent.com/api-evangelist/mrc-global/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mrc-global/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.mrc-global.com
+description: >-
+  MRC Global is the largest global distributor of pipe, valve, and fitting products
+  and services to the energy and industrial markets.
