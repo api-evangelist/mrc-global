@@ -1,11 +1,36 @@
-# MRC Global
+# MRC Global (mrc-global)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for MRC Global.
+MRC Global is the largest global distributor of pipe, valve, and fitting products and services to the energy and industrial markets.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/mrc-global/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+
+## Tags
+
+- Distribution
+- Energy
+- Industrial
+- Pipe
+- Valves
+
+## Timestamps
+
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
 
 ## APIs
 
 No APIs have been documented yet. Check back for updates.
 
-## Properties
+## Common Properties
 
 - [Website](https://www.mrc-global.com)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
