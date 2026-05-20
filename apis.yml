@@ -18,6 +18,10 @@ tags:
   - Valves
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/mrcglobal
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mrc-global
   - type: Website
     url: https://www.mrc-global.com
 maintainers:
