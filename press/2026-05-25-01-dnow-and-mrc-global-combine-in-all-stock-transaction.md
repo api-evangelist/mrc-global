@@ -1,7 +1,9 @@
 ---
 title: DNOW and MRC Global combine in all-stock transaction
 url: https://ir.dnow.com/news-releases/news-release-details/dnow-and-mrc-global-combine-all-stock-transaction-creating
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MRC Global" press release artificial intelligence'
 position: 1
 source: serpapi-google

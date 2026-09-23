@@ -1,7 +1,9 @@
 ---
 title: DNOW and MRC Global to Combine in All-Stock ...
 url: https://www.phcppros.com/articles/21753-dnow-and-mrc-global-to-combine-in-all-stock-transaction-creating-a-premier-energy-and-industrial-solutions-provider
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MRC Global" press release artificial intelligence'
 position: 4
 source: serpapi-google

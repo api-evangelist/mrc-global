@@ -1,7 +1,9 @@
 ---
 title: MRC Global grows share of digital sales and AI use in Q1
 url: https://www.digitalcommerce360.com/article/mrc-digital-sales/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MRC Global" press release artificial intelligence'
 position: 2
 source: serpapi-google
